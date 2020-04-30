@@ -1,0 +1,471 @@
+/* ---------- MAX 1000PX ---------- */
+@media only screen and (min-width:769px) and (max-width:1000px) {
+.logo-area img{
+    width: 170px;
+}
+.social-bookmarks-left ul li:nth-child(2) {
+    margin-right: 10px;
+}
+.pad-0 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.social-bookmarks-right i {
+    display: none;
+}
+.social-bookmarks-right a {
+    font-size: 14px;
+}
+.social-bookmarks-right {
+    padding: 9px 8px;
+    margin-left:0px;
+    width: 100%;
+}
+#scmenu #menu-button::after {
+    height: 7px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+#scmenu #menu-button::before {
+    height: 1px;
+    background: #000;
+}
+#scmenu #menu-button {
+    color: #000;
+}
+#scmenu #menu-button.menu-opened::before {
+    background: #000;
+}
+#scmenu #menu-button.menu-opened::after {
+    height: 2px;
+    background: #000;
+}
+#scmenu #menu-button::before {
+    height: 2px;
+}
+#scmenu > ul > li {
+    padding: 10px 0px 0px 0px;
+}
+#scmenu > ul > li > a {
+    padding-bottom: 5px;
+    border-bottom:1px solid transparent;
+}
+#scmenu > ul > li:hover > a {
+  border-bottom:1px solid #ed1c24;
+}
+#scmenu > ul > li.current-menu-item > a {
+    font-weight: 600;
+    border-bottom: 1px solid #ed1c24;
+}
+.menu-area {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.et_divi_builder #et_builder_outer_content .et_pb_section {
+    padding: 10px 5px !important;
+}
+#logo-area {
+    margin-top: 10px !important;
+}
+.news img {
+    padding:15px 0px;
+    width: 100%;
+}
+footer p {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+footer {
+    padding: 20px 0px;
+}
+.news form {
+    width: 100%;
+    padding-top: 5px;
+}
+footer ul.ft-social li {
+    margin-left: 10px;
+}
+#scmenu > ul > li > a {
+    padding: 5px 15px;
+}
+.tab-horiz .tab-legend > li.active {
+    padding: 20px 20px;
+}
+.tab-horiz .tab-legend > li {
+    padding: 20px 20px;
+}
+section.contact-form {
+    margin-top: 10px;
+}
+.tp-parallax-wrap{
+	left: 5px !important;
+	}
+.full-drop {
+    position: relative;
+}
+.full-down {
+    top: 100% !important;
+	padding-left: 15px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+.logo-area img{
+    width: 170px;
+}
+.social-bookmarks-left ul li:nth-child(2) {
+    margin-right: 10px;
+}
+.pad-0 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.social-bookmarks-right i {
+    display: none;
+}
+.social-bookmarks-right a {
+    font-size: 14px;
+}
+.social-bookmarks-right {
+    padding: 9px 8px;
+    margin-left:0px;
+    width: 100%;
+}
+#scmenu #menu-button::after {
+    height: 7px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+#scmenu #menu-button::before {
+    height: 1px;
+    background: #000;
+}
+#scmenu #menu-button {
+    color: #000;
+}
+#scmenu #menu-button.menu-opened::before {
+    background: #000;
+}
+#scmenu #menu-button.menu-opened::after {
+    height: 2px;
+    background: #000;
+}
+#scmenu #menu-button::before {
+    height: 2px;
+}
+#scmenu > ul > li {
+    padding: 10px 0px 0px 0px;
+}
+#scmenu > ul > li > a {
+    padding-bottom: 5px;
+    border-bottom:1px solid transparent;
+}
+#scmenu > ul > li:hover > a {
+  border-bottom:1px solid #ed1c24;
+}
+#scmenu > ul > li.current-menu-item > a {
+    font-weight: 600;
+    border-bottom: 1px solid #ed1c24;
+}
+.menu-area {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.et_divi_builder #et_builder_outer_content .et_pb_section {
+    padding: 10px 5px !important;
+}
+#logo-area {
+    margin-top: 10px !important;
+}
+.news img {
+    padding:15px 0px;
+    width: 100%;
+}
+footer p {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+footer {
+    padding: 20px 0px;
+}
+.news form {
+    width: 100%;
+    padding-top: 5px;
+}
+footer ul.ft-social li {
+    margin-left: 10px;
+}
+.tab-horiz .tab-legend > li.active {
+    padding: 15px 15px;
+}
+.tab-horiz .tab-legend > li {
+    padding: 15px 15px;
+}
+section.contact-form {
+    margin-top: 10px;
+}
+.tp-parallax-wrap{
+	left: 5px !important;
+	}
+.full-drop {
+    position: relative;
+}
+.full-down {
+    top: 100% !important;
+	padding-left: 15px;
+}
+
+
+
+
+}
+
+
+
+
+/* ---------- MAX 500PX ---------- */
+@media only screen and (max-width:500px) {
+.social-bookmarks-right {
+    float: left;
+    margin-top: 14px;
+	margin-left: 0px;
+}
+.social-bookmarks-left {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+.border-right {
+    margin-right:0px;
+	border-right: 0px solid #dcdcdc;
+}
+.social-bookmarks-left ul li {
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+}
+#scmenu #menu-button::after {
+    height: 7px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+#scmenu #menu-button::before {
+    height: 1px;
+    background: #000;
+}
+#scmenu #menu-button {
+    color: #000;
+}
+#scmenu #menu-button.menu-opened::before {
+    background: #000;
+}
+#scmenu #menu-button.menu-opened::after {
+    height: 2px;
+    background: #000;
+}
+#scmenu #menu-button::before {
+    height: 2px;
+}
+#scmenu > ul > li {
+    padding: 10px 0px 0px 0px;
+}
+#scmenu > ul > li > a {
+    padding-bottom: 5px;
+    border-bottom:1px solid transparent;
+}
+#scmenu > ul > li:hover > a {
+  border-bottom:1px solid #ed1c24;
+}
+#scmenu > ul > li.current-menu-item > a {
+    font-weight: 600;
+    border-bottom: 1px solid #ed1c24;
+}
+.menu-area {
+    float: left;
+    height: auto;
+    width: 100%;
+}
+
+.news img {
+    padding: 15px 0px;
+    width: 100%;
+}
+.news form {
+    padding-top: 0px;
+}
+.news input[type="email"] {
+    float: left;
+    width: 100%;
+    margin-left: 0px;
+}
+.news label {
+    font-size: 14px;
+}
+.news label {
+    margin-bottom: 15px;
+}
+footer {
+    padding: 15px 0px;
+}
+footer p {
+    font-size: 14px;
+    margin-right: 0px;
+}
+ul.left-ft{
+	margin-top:10px;
+	float:left;
+	width:100%;
+	}
+footer ul li a {
+    font-size: 14px;
+}
+footer ul.ft-social {
+    float: left;
+    margin-top: 10px;
+}
+footer ul.ft-social li {
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.pad-0 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#blog-area .esg-filterbutton span {
+    padding: 4px 10px;
+}
+.news-btn {
+    margin-left: 0px;
+    position: relative;
+}
+.logo-area {
+    margin-bottom: 8px;
+}
+.full-drop {
+    padding: 8px 15px!important;
+}
+.et_divi_builder #et_builder_outer_content .et_pb_section {
+    padding: 10px 5px !important;
+}
+#blog-area .esg-filterbutton span {
+    padding: 4px 8px !important;
+    font-size: 14px!important;
+}
+.minimal-light .esg-left, .minimal-light .esg-right {
+    padding: 0px 5px !important;
+}
+#blog-area ul {
+    margin-top: 20px !important;
+}
+#logo-area {
+    margin-top: 20px !important;
+}
+.esg-filter-wrapper {
+    float: left;
+}
+.news label {
+    float: left;
+}
+.news-form {
+    float: left;
+}
+
+/*who we are.....*/
+.team {
+    padding-top: 10px;
+}
+.single-team img {
+    margin-bottom: 20px;
+}
+.single-team h4 {
+    margin-bottom: 15px;
+}
+section.we-content {
+    padding: 20px 0 20px 0px;
+}
+section.we-content h2 {
+    margin-bottom: 10px;
+}
+.we-single {
+    margin-bottom: 10px;
+}
+#blog-page h1{
+	width:100%;
+	float:left;
+	}
+.esg-filter-wrapper.dropdownstyle {
+    width: 100% !important;
+    margin-bottom: 5px !important;
+}
+.esg-filter-wrapper .esg-filterbutton:last-child, .esg-cartbutton a, .esg-selected-filterbutton {
+    float: left;
+}
+.tab-horiz .tab-legend > li.active {
+    padding: 10px 10px;
+}
+.tab-horiz .tab-legend > li {
+    padding: 10px 10px;
+}
+.tab-horiz .tab-legend > li p {
+    font-size: 12px;
+}
+section.contact-form {
+    margin-top: 10px;
+}
+.logo-area {
+    text-align: center;
+}
+.tp-parallax-wrap{
+	left: 5px !important;
+	}
+.social-bookmarks-left ul li.drop {
+    width: 100%;
+}
+.social-bookmarks-left ul li:nth-child(3) {
+    WIDTH: 100%;
+}
+.full-drop {
+    position: relative;
+}
+.full-down {
+    top: 100% !important;
+	padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
